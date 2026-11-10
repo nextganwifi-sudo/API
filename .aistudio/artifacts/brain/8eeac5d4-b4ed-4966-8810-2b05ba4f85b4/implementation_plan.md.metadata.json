@@ -1,0 +1,6 @@
+{
+  "summary":  "Complete architectural and implementation plan for Full PPPoE Integration in NextGan WiFi Solution (Mikhmon Server). Covers router-scoped PPPoE navigation, Secret & Profile management, RouterOS 6 & 7 compatible expiration system (1d, 5d, 10d, 1m calendar month), active session monitoring, and reseller RBAC permissions.",
+  "updatedAt":  "2026-11-10T04:30:16.813708340Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
